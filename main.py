@@ -6,3 +6,8 @@ print(12**2, 'El mundo')
 
 
 # Hola Mundo en comentario
+
+"""
+Super 
+Comentario
+"""
