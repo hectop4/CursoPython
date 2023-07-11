@@ -1,6 +1,6 @@
 import random as rnd;
 
-rps={1:"Rock", 2:"Paper", 3:"Scissors"}
+rps=(0,"Rock", "Paper", "Scissors")
 user_option= input("Enter your option: \n 1. Rock \n 2. Paper \n 3. Scissors \n")
 user_option= int(user_option)
 computer_option=rnd.randint(1,3)
